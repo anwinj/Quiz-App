@@ -1,0 +1,93 @@
+[
+    {
+        "question":"What is React?",
+        "answerOptions":[
+            {"text":"A JavaScript library for building user interfaces", "isCorrect":true},
+            {"text":"A programming language", "isCorrect":false},
+            {"text":"A framework for building web applications", "isCorrect":false},
+            {"text":"A tool for creating mobile apps", "isCorrect":false}
+        ]
+    },
+    {
+        "question":" What is the difference between a state and a prop in React?",
+        "answerOptions":[
+            {"text":"A state is local to a component, while a prop is passed from a parent component", "isCorrect":true},
+            {"text":"A state is immutable, while a prop is mutable", "isCorrect":false},
+            {"text":"A state can be changed by the component itself, while a prop can only be changed by the parent component", "isCorrect":false},
+            {"text":"All of the above", "isCorrect":false}
+        ]
+    },
+    {
+        "question":"What of the following is used in React.js to increase performance?",
+        "answerOptions":[
+            {"text":"Original DOM", "isCorrect":false},
+            {"text":"Virtual DOM", "isCorrect":true},
+            {"text":"Both A and B", "isCorrect":false},
+            {"text":"None of the above", "isCorrect":false}
+        ]
+    },
+    {
+        "question":" What is JSX?",
+        "answerOptions":[
+            {"text":"A JavaScript extension that allows you to write HTML in your code", "isCorrect":false},
+            {"text":"A way to create React components", "isCorrect":false},
+            {"text":"A way to style React components", "isCorrect":false},
+            {"text":"All of the above", "isCorrect":true}
+        ]
+    },
+    {
+        "question":"What is the virtual DOM?",
+        "answerOptions":[
+            {"text":"A lightweight representation of the real DOM", "isCorrect":false},
+            {"text":" A way to update the DOM efficiently", "isCorrect":false},
+            {"text":"A way to create React components", "isCorrect":false},
+            {"text":"All of the above", "isCorrect":true}
+        ]
+    },
+    {
+        "question":"In which language is React.js written?",
+        "answerOptions":[
+            {"text":"Python", "isCorrect":false},
+            {"text":"Javascript", "isCorrect":true},
+            {"text":"Java", "isCorrect":false},
+            {"text":"PHP", "isCorrect":false}
+        ]
+    },
+    {
+        "question":"What is Babel?",
+        "answerOptions":[
+            {"text":"JavaScript compiler", "isCorrect":true},
+            {"text":"JavaScript interpreter", "isCorrect":false},
+            {"text":"JavaScript transpiler", "isCorrect":false},
+            {"text":"None of the above", "isCorrect":false}
+        ]
+    },
+    {
+        "question":"Identify the smallest building block of React.JS",
+        "answerOptions":[
+            {"text":"Props", "isCorrect":false},
+            {"text":"Elements", "isCorrect":false},
+            {"text":"Components", "isCorrect":true},
+            {"text":"None of the above", "isCorrect":false}
+        ]
+    },
+    {
+        "question":"What is ReactJS mainly used for building?",
+        "answerOptions":[
+            {"text":"Database", "isCorrect":false},
+            {"text":"Connectivity", "isCorrect":false},
+            {"text":"User interface", "isCorrect":true},
+            {"text":"Design platform", "isCorrect":false}
+        ]
+    },
+    {
+        "question":"What are the benefits of using React?",
+        "answerOptions":[
+            {"text":"It is fast and efficient", "isCorrect":false},
+            {"text":"It is easy to learn and use", "isCorrect":false},
+            {"text":"It is flexible and scalable", "isCorrect":false},
+            {"text":"All of the above", "isCorrect":true}
+        ]
+    }
+
+]
